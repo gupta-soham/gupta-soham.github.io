@@ -8,7 +8,7 @@
 [<img align="left" alt="LinkedIN" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg" />](https://linkedin.com/in/soham-gupta-in) 
 [<img align="left" alt="Instagram" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg" />](https://instagram.com/_soham_gupta) 
 [<img align="left" alt="YouTube" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/youtube-dark.svg" />](https://www.youtube.com/channel/UCPsRTWjuoocFwf6JhZvRrSQ?view_as=subscriber?sub_confirmation=1)
-[<img align="left" alt="Telegram" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111812.png" />](http://t.me/CoolBro_0)
+[<img align="left" alt="Telegram" width="26px" src="https://cdn-icons-png.flaticon.com/512/253/253802.png" />](http://t.me/CoolBro_0)
 [<img align="left" alt="Website" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/globe-dark.svg" />](https://coolbro.bio.link) 
 
 <br/>
@@ -20,7 +20,7 @@
 <img align="left" alt="Github" width="30px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/terminal-dark.svg" />
 <img align="left" alt="Github" width="30px" src="https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1653544861~hmac=8a00f63fb101fb5a3917fbb127fa57c3" />
 <img align="left" alt="Github" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-<img align="left" alt="Github" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919838.png" />
+<img align="left" alt="Github" width="40px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" />
 <img align="left" alt="Github" width="30px" src="https://cdn-icons-png.flaticon.com/512/7506/7506880.png" />
 <img align="left" alt="Github" width="30px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" />
 
