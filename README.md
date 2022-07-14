@@ -8,7 +8,8 @@
 [<img align="left" alt="LinkedIN" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg" />](https://linkedin.com/in/soham-gupta-in) 
 [<img align="left" alt="Instagram" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg" />](https://instagram.com/_soham_gupta) 
 [<img align="left" alt="YouTube" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/youtube-dark.svg" />](https://www.youtube.com/channel/UCPsRTWjuoocFwf6JhZvRrSQ?view_as=subscriber?sub_confirmation=1)
-[<img align="left" alt="Telegram" width="26px" src="https://cdn-icons-png.flaticon.com/512/253/253802.png" />](https://telegram.im/@coolbro_0)
+[<img align="left" alt="Telegram" width="26px" src="https://user-images.githubusercontent.com/97831613/178946148-dce9b0c1-40aa-408d-b027-1c44a373eb07.png" />](https://telegram.im/@coolbro_0)
+
 [<img align="left" alt="Website" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/globe-dark.svg" />](https://coolbro.bio.link) 
 
 <br/>
